@@ -86,19 +86,19 @@ python manage.py runserver
 Some examples:
 
 1. Create Issue:
-    ![alt text](image.png)
+    ![alt text](images/image.png)
 
 2. Issue reported by reporter using reporter_id:
-   ![alt text](image-1.png)
+   ![alt text](images/image-1.png)
 
 3. Create Reporter
-   ![alt text](image-2.png)
+   ![alt text](images/image-2.png)
 
 4. Mandate reporter_id while creating reporter
-   ![alt text](image-3.png)
+   ![alt text](images/image-3.png)
 
 5. Reporter with same ID cant created
-   ![alt text](image-4.png)
+   ![alt text](images/image-4.png)
 
 ---
 Repository layout (relevant files):
