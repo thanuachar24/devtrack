@@ -84,13 +84,10 @@ Some examples:
 2. Issue reported by reporter using reporter_id:
    ![alt text](images/image-1.png)
 
-3. Create Reporter
-   ![alt text](images/image-2.png)
-
-4. Mandate reporter_id while creating reporter
+3. Mandate reporter_id while creating reporter
    ![alt text](images/image-3.png)
 
-5. Reporter with same ID cant created
+4. Reporter with same ID cant created
    ![alt text](images/image-4.png)
 
 ---
